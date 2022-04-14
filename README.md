@@ -13,7 +13,7 @@ A total conversion mod for Quake featuring familiar plasic blocks.
 
 All done! *Please remember this mod is not 100% finished, so expect some missing models!*
 
-[^1]: Some source ports load mods differently, if `game block-quake-vanilla-tc-main` doesn't work in the console, try `gamedir block-quake-vanilla-tc-main`. If you changed the name of the mod folder to something else, type that name into the console after `game ` or `gamedir `.
+[^1]: Some source ports load mods differently, if `game block-quake-vanilla-tc-main` doesn't work in the console, try `gamedir block-quake-vanilla-tc-main`. If you changed the name of the mod folder to something else, type that new name into the console after `game` or `gamedir` with a space inbetween.
 
 ---
 
