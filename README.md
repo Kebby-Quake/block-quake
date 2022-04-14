@@ -58,6 +58,6 @@ Planned future features:
 ---
 
 *This whole project started in November 2021 as a joke on the Quake Mapping Discord and has since spiraled into a fully fledged total conversion!*
-*Thank you to everyone who has shared support and helped contribute to this passion project and community!*
+*Thank you to everyone in the modding and mapping community who has shared support for this silly passion project!*
 
 [^2]: Requires custom source code and will not be compatible with the other three Block Quake versions. Censorship of mature themes in Quake can only be applied to content that has been made specfically for this version. This includes core gameplay, enemies, weapons, maps, textures and sounds. If you add different model replacements from other mods, play online, or play on regular Quake maps, there is no way to obscure content that may not be suitible for younger audiences. This version is intended for parents who wish to play Quake together with their kids. It's also a great learning oppertunity for getting into level design with Trenchbroom. Remember to be responsible and always use adult supervision!
