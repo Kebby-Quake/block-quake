@@ -17,6 +17,14 @@ You're all done, have fun! *Please remember this mod is not 100% finished, so ex
 
 ---
 
+Confirmed engine compatibility:
+- QuakeSpasm 0.93.2
+- QuakeSpasm-Spiked
+- DarkPlaces
+- Remaster's KEX engine.
+
+---
+
 Planned Block Quake versions include:
 - `Vanilla` A blocky-themed replacement for the regular asssets in Quake, should work with most mods.
 
@@ -44,13 +52,5 @@ Planned future features:
 - Censor the entire game and remove any mature themed content and replace it with age appropriate material.
 - Finish the Blocky WAD textures by adding more brick pattern variety and color options.
 - Create some Blocky themed maps in Trenchbroom and maybe have a Block Quake Map Jam! *(eventually)*
-
----
-
-Confirmed engine compatibility:
-- QuakeSpasm 0.93.2
-- QuakeSpasm-Spiked
-- DarkPlaces
-- Remaster's KEX engine.
 
 [^2]: Requires custom source code and will not be compatible with the other three Block Quake versions. Censorship of mature themes in Quake can only be applied to content that has been made specfically for this version. This includes core gameplay, enemies, weapons, maps, textures and sounds. If you add different model replacements from other mods, play online, or play on regular Quake maps, there is no way to obscure content that may not be suitible for younger audiences. This version is intended for parents who wish to play Quake together with their kids. It's also a great learning oppertunity for getting into level design with Trenchbroom. Remember to be responsible and always use adult supervision!
