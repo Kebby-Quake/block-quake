@@ -1,11 +1,11 @@
 ## Block Quake
-A total conversion mod for Quake featuring familiar plasic blocks.
+A total conversion mod for Quake featuring familiar plasic blocks, by Kebby_
 
 *Please note this mod is not 100% finished, so expect some missing models!*
 
 ---
 
-### Quick install guide!
+### Getting started:
 1. Click the green **Code** button in the upper right corner of GitHub, then click **Download ZIP**.
 2. Open your computer's downloads folder and extract the file contents of `block-quake-vanilla-tc-main.zip` into your main **Quake** folder.
 3. If you are using a source port like QuakeSpasm, Darkplaces or the Rerelease, extract the contents of the zip into the folder that has the source engine's **.exe**.
