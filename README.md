@@ -47,7 +47,8 @@ Completed and ready for playtesting:
 ---
 
 Planned future features:
-- Add some Blocky themed sound effects for weapons, enemies and objects.
+- Add some blocky themed sound effects for weapons, enemies and objects.
+- Create new custom blocky themed hud and gui graphics.
 - Finish all blocky themed models like enemy projectiles and the BSP ammo boxes for the Vanilla version.
 - Finish the new gibbed-limbs and blocky blood models for the CustomC source code overhaul version.
 - Once CustomC is complete, implement the new source code changes into the ProgsDump version.
