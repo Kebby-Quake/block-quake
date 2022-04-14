@@ -12,6 +12,7 @@ A total conversion mod for Quake featuring familiar plasic blocks.
 4. You should now have a folder called `block-quake-vanilla-tc-main` in the same **Quake** folder as your game's **.exe** and **ID1** files. You can rename the block-mod folder to something shorter if you want, remember the new folder name for later.
 5. Run **Quake** for whichever source port you put the mod files into.
 6. In-game, open the console with the tilda key `~` and type `game block-quake-vanilla-tc-main` then press enter.[^1]
+7. To try out the blocky enemy test room, open the console and type `map blocky_devroom_vanilla_v4` press enter.
 
 You're all done, have fun!
 
