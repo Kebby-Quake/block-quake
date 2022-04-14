@@ -5,8 +5,11 @@ A total conversion mod for Quake featuring familiar plasic blocks.
 
 Planned Block Quake versions include:
 - `Vanilla` A blocky-themed replacement for the regular asssets in Quake, should work with most mods.
+
 - `CustomC` A blocky-themed replacement and overhaul of Quake's source code to allow more special effects and minor gameplay changes.
+
 - `ProgsDump`  Same changes as CustomC, with the added compatibility for use with ProgsDump mods and Trenchbroom level editing tools.
+
 - `Friendly`  A stand-alone version of the blocky-theme that removes Quake's depictions of violence and gore for a "child safe" experience.[^1]
 
 ---
