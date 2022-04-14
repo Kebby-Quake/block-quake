@@ -14,7 +14,26 @@ Planned Block Quake versions include:
 
 ---
 
-Engine compatibility (confirmed support for):
+Completed and ready for playtesting:
+- Blocky themed characters, enemies and boss models, textures and animations.
+- Blocky themed weapon pickups, weapon model textures and animations.
+- Blocky themed ammo, armor, items and powerup models.
+- Blocky themed test map (blocky_devroom_vanilla_v4) including the blocky_WAD_v4 (with five colors).
+
+---
+
+Planned future features:
+- Add some Blocky themed sound effects for weapons, enemies and objects.
+- Finish the blocky themed enemy projectiles and some item pickups like the BSP ammo boxes for the Vanilla version.
+- Finish the new gibbed-limbs and blocky blood models for the CustomC source code overhaul version.
+- Once CustomC is complete, implement the new source code changes into the ProgsDump version.
+- Censor the entire game and remove any mature themed content and replace it with age appropriate material.
+- Finish the Blocky WAD textures by adding more brick pattern variety and color options.
+- Create some Blocky themed maps in Trenchbroom and maybe have a Block Quake Map Jam! *(eventually)*
+
+---
+
+Confirmed engine compatibility:
 - QuakeSpasm 0.93.2
 - QuakeSpasm-Spiked
 - DarkPlaces
