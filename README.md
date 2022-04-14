@@ -10,7 +10,7 @@ Planned Block Quake versions include:
 
 - `ProgsDump`  Same changes as CustomC, with the added compatibility for use with ProgsDump mods and Trenchbroom level editing tools.
 
-- `Friendly`  A stand-alone version of the blocky-theme that aims to reduce Quake's **Mature** rating into an **Everyone 10+** for younger audiences.[^1]
+- `Friendly`  A stand-alone version of the blocky-theme that aims to reduce Quake's **Mature** rating into an **Everyone 10+** for younger audiences to enjoy.[^1]
 
 ---
 
