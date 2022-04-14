@@ -24,7 +24,7 @@ Completed and ready for playtesting:
 
 Planned future features:
 - Add some Blocky themed sound effects for weapons, enemies and objects.
-- Finish the blocky themed enemy projectiles and some item pickups like the BSP ammo boxes for the Vanilla version.
+- Finish all blocky themed models like enemy projectiles and the BSP ammo boxes for the Vanilla version.
 - Finish the new gibbed-limbs and blocky blood models for the CustomC source code overhaul version.
 - Once CustomC is complete, implement the new source code changes into the ProgsDump version.
 - Censor the entire game and remove any mature themed content and replace it with age appropriate material.
