@@ -4,10 +4,10 @@ A total conversion mod for Quake featuring familiar plasic blocks.
 ---
 
 ### Quick install guide!
-1. Click the green `Code` button in the upper right corner of GitHub, then click `Download ZIP`
-2. Open your computer's downloads folder and extract the contents of the `block-quake-vanilla-tc-main` zip into your main `Quake` folder.
-3. If you are using a source port like QuakeSpasm, Darkplaces or the Rerelease, extract the contents of the zip into the folder that has the source engine's `.exe`.
-4. You should now have a folder called `block-quake-vanilla-tc-main` in the same Quake folder as your game's `.exe` and `ID1` files. You can rename the block-mod folder to something shorter if you want, remember the new folder name for later.
+1. Click the green **Code** button in the upper right corner of GitHub, then click **Download ZIP**.
+2. Open your computer's downloads folder and extract the file contents of `block-quake-vanilla-tc-main.zip` into your main **Quake** folder.
+3. If you are using a source port like QuakeSpasm, Darkplaces or the Rerelease, extract the contents of the zip into the folder that has the source engine's **.exe**.
+4. You should now have a folder called `block-quake-vanilla-tc-main` in the same **Quake** folder as your game's **.exe** and **ID1** files. You can rename the block-mod folder to something shorter if you want, remember the new folder name for later.
 5. Run Quake for whichever source port you put the mod files into.
 6. In-game, open the console with the tilda key `~` and type `game block-quake-vanilla-tc-main` then press enter.[^1]
 
