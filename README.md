@@ -1,23 +1,20 @@
 ## Block Quake
 A total conversion mod for Quake featuring familiar plasic blocks.
 
-*Please note this mod is not 100% finished, so expect some missing models! -Kebby_:gear:*
+*This is the "Vanilla Pak" version 1.0!  It's designed as a total conversion model replacement for Quake and can be combined with Vanilla styled mods.  There are still some features I'd like to add like sound effects and a custom hud, but those will be developed later!  -Kebby_:gear:*
 
 ---
 
 ### Getting started:
 1. Click the green **Code** button in the upper right corner of GitHub, then click **Download ZIP**.
-2. Open your computer's downloads folder and extract the file contents of `block-quake-vanilla-tc-main.zip` into your main **Quake** folder.
-3. If you are using a source port like QuakeSpasm, Darkplaces or the Rerelease, extract the contents of the zip into the folder that has the source engine's **.exe**.
-4. You should now have a folder called `block-quake-vanilla-tc-main` in the same **Quake** folder as your game's **.exe** and **ID1** files. You can rename the block-mod folder to something shorter if you want, remember the new folder name for later.
-5. Run **Quake** for whichever source port you put the mod files into.
-6. In-game, open the console with the tilda key `~` and type `game block-quake-vanilla-tc-main` then press enter.[^1]
+2. Extract the contents of the Block-Quake folder into your main **ID1** folder.
+3. You should now have four pak files: Quake's `pak0, pak1` and now Block-Quake's `pak2, pak3`.  It's ready to play now!
+4. If you want to combine Block-Quake with another mod: make sure the Block-Quake's pak files have the highest numbered names in the other mod folder. `pak#`
+5. For example, if your other mod folder has: `pak0, pak1, pak2` rename the Block-Quake paks: `pak3, pak4` before moving them over.
 
 ### All done, have fun playing!
 
-If you want to try out the blocky enemy test room, open the console and type `map blocky_devroom_vanilla_v4` then press enter. To get back to Quake's original campaign, open the console and enter `map start`.
-
-[^1]: Some source ports load mods differently, if `game block-quake-vanilla-tc-main` doesn't work in the console, try `gamedir block-quake-vanilla-tc-main`. If you changed the name of the mod folder to something else, type that new name into the console after `game` or `gamedir` with a space inbetween.
+To play the blocky enemy test room, open the console and type `map blocky_devroom_vanilla_v4` then press enter. To get back to Quake's original campaign, open the console and enter `map start`.
 
 ---
 
