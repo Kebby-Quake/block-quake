@@ -9,8 +9,8 @@ A total conversion mod for Quake featuring familiar plasic blocks.
 1. Click the green **Code** button in the upper right corner of GitHub, then click **Download ZIP**.
 2. Extract the contents of the Block-Quake folder into your main **ID1** folder.
 3. You should now have four pak files in your **ID1** folder: Quake's `pak0, pak1` and now Block-Quake's `pak2, pak3`.
-5. If you want to combine Block-Quake with another mod: make sure the Block-Quake's pak files have the highest numbered names in the other mod folder. `pak#`
-6. For example: if your other mod folder has `pak0, pak1, pak2` rename the Block-Quake paks: `pak3, pak4` before moving them over.
+5. If you want to combine Block-Quake with another mod: make sure the Block-Quake's pak files have the highest numbered names than the other paks in the other-mod folder. `pak#`
+6. For example: if your other-mod folder has `pak0, pak1, pak2` rename the Block-Quake paks: `pak3, pak4` before moving them over.
 
 ### All done, have fun playing!
 
