@@ -1,20 +1,20 @@
 ## Block Quake
 A total conversion mod for Quake featuring familiar plasic blocks.
 
-*This is the "Vanilla Pak" version 1.0!  It's designed to replace models and monsters from Quake and can be combined with Vanilla styled mods.  There are still some features I'd like to add like sound effects and a custom hud, but those will be developed later!  -Kebby_:gear:*
+*This is the "Vanilla Pak" version 1.0!  It's designed to replace models and monsters from Quake and can be combined with most Vanilla styled mods.  There are still some features I'd like to add like sound effects and a custom hud, but those will be developed in the future!  -Kebby_:gear:*
 
 ---
 
 ### Getting started:
 1. Click the green **Code** button in the upper right corner of GitHub, then click **Download ZIP**.
-2. Extract the contents of the Block-Quake folder into your main **ID1** folder.
-3. You should now have four pak files in your **ID1** folder: Quake's `pak0, pak1` and now Block-Quake's `pak2, pak3`.
-5. If you want to combine Block-Quake with another mod: make sure the Block-Quake's pak files have the highest numbered names than the other paks in the other-mod folder. `pak#`
-6. For example: if your other-mod folder has `pak0, pak1, pak2` rename the Block-Quake paks: `pak3, pak4` before moving them over.
+2. Extract the new pak files and put them into your main **ID1** folder.
+3. You should now have four pak files in your **ID1** folder: Quake's `pak0, pak1` and Block-Quake's `pak2, pak3`.
 
 ### All done, have fun playing!
 
-To play the blocky enemy test room, open the console and type `map blocky_devroom_vanilla_v4` then press enter. To get back to Quake's original campaign, open the console and enter `map start`.
+If you combine paks from another mod that already overhauls the regular Quake assets like Alkaline or Arcane Dimensions you won't see anything Blocky...  When combining others mod, stick to something that mostly changes gameplay like Copper or play levels from a Map-Jam.
+
+To play the blocky enemy test room, open the console and type `map blocky_devroom_vanilla_v4` then press enter. To get back to Quake's campaign, open the console and enter `map start`.
 
 ---
 
@@ -27,11 +27,11 @@ Confirmed engine compatibility:
 ---
 
 Planned Block Quake versions include:
-- `Vanilla` A blocky-themed replacement for the regular asssets in Quake, should work with most mods.
+- `Vanilla`  (FINISHED!)  A blocky-themed replacement for the regular asssets in Quake, should work with most Vanilla mods.
 
-- `CustomC` A blocky-themed replacement and overhaul of Quake's source code to allow more special effects and minor gameplay changes.
+- `CustomC` A blocky-themed total overhaul of Quake's source code to allow more Blocky special effects and minor gameplay changes.
 
-- `ProgsDump`  Same changes as CustomC, with the added compatibility for use with ProgsDump mods and Trenchbroom level editing tools.
+- `ProgsDump`  Same changes as CustomC, with the added compatibility for ProgsDump mods and Trenchbroom level editing tools.
 
 - `Friendly`  A stand-alone version of the blocky-theme that aims to reduce Quake's **Mature** rating into an **Everyone 10+** for younger audiences to enjoy.[^2]
 
