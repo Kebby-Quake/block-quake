@@ -37,11 +37,11 @@ Planned Block Quake versions include:
 
 ---
 
-Completed and ready for playtesting:
+Completed Blocky stuff:
 - Blocky themed characters, enemies and boss models, textures and animations.
 - Blocky themed weapon pickups, weapon model textures and animations.
 - Blocky themed ammo, armor, items, projectiles, props and powerup models (+BSP models).
-- Blocky themed test map (blocky_devroom_vanilla_v4) including the blocky_WAD_v4 (with five colors).
+- Blocky themed test map (blocky_devroom_vanilla_v4).
 
 ---
 
