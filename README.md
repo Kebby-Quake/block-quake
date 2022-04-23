@@ -1,5 +1,5 @@
 ## Block Quake
-A total conversion mod for Quake featuring familiar plasic blocks.
+A total conversion mod for Quake featuring familiar plastic blocks.
 
 *This is the "Vanilla Pak" version 1.0!  It's designed to replace models and monsters from Quake and can be combined with most Vanilla styled mods.  There are still some features I'd like to add like sound effects and a custom hud, but those will be developed in the future!  -Kebby_:gear:*
 
