@@ -10,6 +10,8 @@ A total conversion mod for Quake featuring familiar plasic blocks.
 2. Extract the new pak files and put them into your main **ID1** folder.
 3. You should now have four pak files in your **ID1** folder: Quake's `pak0, pak1` and Block-Quake's `pak2, pak3`.
 
+---
+
 ### All done, have fun playing!
 
 If you combine paks from another mod that already overhauls the regular Quake assets like Alkaline or Arcane Dimensions you won't see anything Blocky...  When combining others mod, stick to something that mostly changes gameplay like Copper or play levels from a Map-Jam.
