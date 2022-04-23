@@ -14,7 +14,7 @@ A total conversion mod for Quake featuring familiar plastic blocks.
 
 ### Mods and Maps:
 
-If you combine paks from another mod that already overhauls the regular Quake assets like Alkaline or Arcane Dimensions you won't see anything Blocky...  When combining others mod, stick to something that mostly changes gameplay like Copper or play levels from a Map-Jam.
+If you combine paks from another mod that already changes the regular Quake assets like Alkaline or Arcane Dimensions you won't see anything Blocky...  When combining others mod, stick to something that mostly changes gameplay like Copper or play levels from a Map-Jam.
 
 To play the blocky enemy test room, open the console and type `map blocky_devroom_vanilla_v4` then press enter. To get back to Quake's campaign, open the console and enter `map start`.
 
