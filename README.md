@@ -12,7 +12,7 @@ A total conversion mod for Quake featuring familiar plasic blocks.
 
 ---
 
-### All done, have fun playing!
+### Mods and Maps!
 
 If you combine paks from another mod that already overhauls the regular Quake assets like Alkaline or Arcane Dimensions you won't see anything Blocky...  When combining others mod, stick to something that mostly changes gameplay like Copper or play levels from a Map-Jam.
 
