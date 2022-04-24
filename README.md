@@ -26,7 +26,7 @@ Confirmed engine compatibility:
 - DarkPlaces
 - Remaster's KEX engine.
 
-(For the Remaster, rename the Block-Quake pak2 to "pak1" before putting it into your Quake / rerelease / id1 folder. Turn off "enhanced models" in the display settings)
+(For the Remaster, rename the Block-Quake `pak2` to "`pak1`" before putting it into your Quake / rerelease / id1 folder. Turn off "enhanced models" in the display settings)
 
 ---
 
