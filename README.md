@@ -24,7 +24,7 @@ Confirmed engine compatibility:
 - QuakeSpasm 0.93.2
 - QuakeSpasm-Spiked
 - DarkPlaces
-- Remaster's KEX engine.
+- Remaster's KEX engine. (Turn off "enhanced models" in display settings)
 
 ---
 
