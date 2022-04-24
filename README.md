@@ -24,7 +24,9 @@ Confirmed engine compatibility:
 - QuakeSpasm 0.93.2
 - QuakeSpasm-Spiked
 - DarkPlaces
-- Remaster's KEX engine. (Turn off "enhanced models" in display settings)
+- Remaster's KEX engine.
+
+(For the Remaster, rename the Block-Quake pak2 to "pak1" before putting it into your Quake / rerelease / id1 folder. Turn off "enhanced models" in the display settings)
 
 ---
 
