@@ -17,7 +17,7 @@ For more news and updates, check out the Blocky-Discord: https://discord.gg/McUS
 2. Turn off "enhanced models" in the game's display settings.
 
 ### Uninstall:
-To disable or uninstall the mod, move or delete only the Block-Quake `pak` files from your **ID1** folder.  If you are unsure which pak files belong to Block-Quake, double check the pak file by opening it with a program like PakScape.  There will be a folder in the main directory with the title of the Block-Quake mod version.
+To disable or uninstall the mod, move or delete only the Block-Quake `pak` files from your **ID1** folder.  If you are unsure which pak files belong to Block-Quake, double check the pak contents by opening it with a program like PakScape.  There will be a folder in the main directory with the title of the Block-Quake mod version.
 
 ---
 
