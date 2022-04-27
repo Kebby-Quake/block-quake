@@ -12,6 +12,8 @@ For more news and updates, check out the Blocky-Discord: https://discord.gg/McUS
 2. Extract the new pak files and put them into your main **ID1** folder.
 3. You should now have four pak files in your **ID1** folder: Quake's `pak0, pak1` and Block-Quake's `pak2, pak3`.
 
+For the Quake Remaster:  Rename the Block-Quake `pak3` to "`pak2`" before putting it into your Quake / rerelease / id1 folder.  Turn off "enhanced models" in the display settings.  You're all set!
+
 ---
 
 ### Mods and Maps:
@@ -27,8 +29,6 @@ Confirmed engine compatibility:
 - QuakeSpasm-Spiked
 - DarkPlaces
 - Remaster's KEX engine.
-
-(For the Remaster, rename the Block-Quake `pak2` to "`pak1`" before putting it into your Quake / rerelease / id1 folder. Turn off "enhanced models" in the display settings)
 
 ---
 
