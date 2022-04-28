@@ -13,8 +13,9 @@ For more news and updates, check out the Blocky-Discord: https://discord.gg/McUS
 3. You should now have four pak files in your **Id1** folder: Quake's `pak0, pak1` and Block-Quake's `pak2, pak3`.
 
 ### Installation for Quake Remastered:
-1. Rename the Block-Quake `pak3` to the name `pak1` before putting it into your Quake / rerelease / **Id1** folder.
-2. Turn off "enhanced models" in the game's display settings.
+1. Rename the Block-Quake `pak3` to the name `pak1`
+2. Put both the `pak1, pak2` into your Quake / rerelease / **Id1** folder.
+3. Turn off "enhanced models" in the game's display settings.
 
 ### Uninstall:
 To disable or uninstall the mod, move or delete only the Block-Quake `pak` files from your **Id1** folder.  If you are unsure which pak files belong to Block-Quake, double check the pak contents by opening it with a program like PakScape.  There will be a folder in the main directory with the title of the Block-Quake mod version.
