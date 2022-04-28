@@ -14,7 +14,7 @@ For more news and updates, check out the Blocky-Discord: https://discord.gg/McUS
 
 ### Installation for Quake Remastered:
 1. Rename the Block-Quake `pak3` to be called `pak1`
-2. Put both the `pak1, pak2` into your Quake / rerelease / **Id1** folder <--in here.
+2. Put both the `pak1, pak2` into your Quake / rerelease / **Id1** folder.
 3. Turn off the enhanced models in the Remaster's display settings.
 
 ### Uninstall:
