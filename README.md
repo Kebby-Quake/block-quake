@@ -9,6 +9,25 @@ This GitHub version will be where the "No Paks / Folder" versions of Block-Quake
 
 ---
 
+### Typical Folder installation:
+
+Always create copies and backups of your game files before merging and double check the names.
+
+1. Create a new game directory and name it "blockquake_vanilla"
+2. Copy the contents of your "id1" Quake folder and paste them into the "blockquake_vanilla" folder
+3. Download blockquake_vanilla1.1 and extract the contents of the Zip into the "blockquake_vanilla" folder
+4. If prompted, merge the blockquake_vanilla folder contents
+5. To play regular Block-Quake Vanilla, launch your source port with `-game blockquake_vanilla`
+
+6. For Block-Quake Copper, install a copper-supported mod like Underdark Overbright
+7. Create a new game directory and name it "blockquake_copper"
+8. Copy the contents of your "copper" mod folder and paste them into the "blockquake_copper" folder
+9. Download blockquake_copper1.0 and extract the contents of the Zip into the "blockquake_copper" folder
+10. If prompted, merge the blockquake_copper folder contents
+11. To play the combined Block-Quake Copper, launch your source port with `-game blockquake_copper`
+
+---
+
 ### Mods and Maps:
 
 - The Block-Quake mod can only convert the original "id1" or "copper" file contents.  If you play another mod that uses "id1" as it's base, like a map-jam, everything should work just fine.
