@@ -19,7 +19,7 @@ Always create copies and backups of your game files before merging and double ch
 4. If prompted, merge the blockquake_vanilla folder contents
 5. To play regular Block-Quake Vanilla, launch your source port with `-game blockquake_vanilla`
 
-6. For Block-Quake Copper, install a copper-supported mod like Underdark Overbright (http://lunaran.com/copper/download/)
+6. For Block-Quake Copper, install a copper-supported mod like Underdark Overbright, here: http://lunaran.com/copper/download/
 7. Create a new game directory and name it "blockquake_copper"
 8. Copy the contents of your "copper" mod folder and paste them into the "blockquake_copper" folder
 9. Download blockquake_copper1.0 and extract the contents of the Zip into the "blockquake_copper" folder
