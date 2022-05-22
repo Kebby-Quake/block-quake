@@ -5,7 +5,7 @@ A total conversion mod for Quake featuring familiar plastic blocks.
 
 ### Block-Quake features the **Vanilla Folder version 1.1** and includes support for Copper using the new **Copper Folder version 1.0**
 
-This GitHub version will be where the "No Paks" versions of Block-Quake will be.  This installation method is intended for experienced Quake modders who want more control over their file management.  I'm assuming you already know how to install this and how to use it, if not, I highly recommend the simplier Itch-io pak version, here:  https://kebby-quake.itch.io/block-quake
+This GitHub version will be where the "No Paks / Folder" versions of Block-Quake will be from now on.  The installation method is intended for experienced Quake modders who want more control over their file management.  I'm assuming you already know how to install this and how to use it, if not, I highly recommend the simplier Itch-io pak version, here: https://kebby-quake.itch.io/block-quake
 
 ---
 
