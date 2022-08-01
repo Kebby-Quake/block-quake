@@ -84,7 +84,7 @@ I'm hoping to add lots more maps after the Blocky texture pack is complete!
 
 ---
 
-### Changelog
+### Changelog:
 
 	Block Quake - Vanilla 1.0 	Finished the BSP ammo and health pickups	
 	Block Quake - Vanilla 1.1 	Fixed shoulder texture on Knight.mdl
