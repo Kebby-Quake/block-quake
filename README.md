@@ -3,7 +3,7 @@ A total conversion mod for Quake featuring familiar plastic blocks.
 
 ---
 
-### Block-Quake features the **Vanilla Folder version 1.1** and includes support for Copper using the new **Copper Folder version 1.0**
+### Block-Quake features the **Vanilla Folder version 1.1** and includes support for Copper using the new **Copper Folder version 1.1**
 
 This GitHub version will be where the "No Paks / Folder" versions of Block-Quake will be from now on.  The installation method is intended for experienced Quake modders who want more control over their file management.  I'm assuming you already know how to install this and how to use it, if not, I highly recommend the simplier Itch-io pak version, here: https://kebby-quake.itch.io/block-quake
 
@@ -46,6 +46,7 @@ I'm hoping to add lots more maps after the Blocky texture pack is complete!
 - DarkPlaces
 - Qrack
 - JoeQuake
+- FTE Quake World
 - Quake Remastered KEX engine.
 - Ironwail  (highly recommended!)
 
@@ -80,6 +81,18 @@ I'm hoping to add lots more maps after the Blocky texture pack is complete!
 - Create a "Friendly" version with mature themes censored for younger audiences.
 - Finish the blocky texture wad, possibly replacing the "id1" wad?
 - Create some blocky themed maps and maybe have a Block-Quake Map-Jam!  (eventually)
+
+---
+
+### Changelog
+
+- Block Quake - Vanilla 1.0 	Finished the BSP ammo and health pickups
+- Block Quake - Vanilla 1.1 	Fixed shoulder texture on Knight.mdl
+
+- Block Quake - Copper 1.0 	Added new Copper content:				
+					20fps axe, Knight animations, Knight skins, key skins, backback skins
+					candle models, powerups renamed, modeled ammo and health pickups (.mdl)
+- Block Quake - Copper 1.1	Fixed off-center model origin point for ammo and health pickups
 
 ---
 
