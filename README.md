@@ -89,7 +89,7 @@ I'm hoping to add lots more maps after the Blocky texture pack is complete!
 - Block Quake - Vanilla 1.0 	Finished the BSP ammo and health pickups
 - Block Quake - Vanilla 1.1 	Fixed shoulder texture on Knight.mdl
 
-- Block Quake - Copper 1.0 	Added new Copper content:				
+- Block Quake - Copper 1.0 	Added new Copper content:
 					20fps axe, Knight animations, Knight skins, key skins, backback skins
 					candle models, powerups renamed, modeled ammo and health pickups (.mdl)
 - Block Quake - Copper 1.1	Fixed off-center model origin point for ammo and health pickups
